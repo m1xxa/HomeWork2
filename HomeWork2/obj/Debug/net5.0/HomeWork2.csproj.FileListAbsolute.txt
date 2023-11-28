@@ -1,0 +1,16 @@
+D:\_projects\education\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.exe
+D:\_projects\education\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.deps.json
+D:\_projects\education\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.runtimeconfig.json
+D:\_projects\education\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.runtimeconfig.dev.json
+D:\_projects\education\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.dll
+D:\_projects\education\HomeWork2\HomeWork2\bin\Debug\net5.0\ref\HomeWork2.dll
+D:\_projects\education\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.pdb
+D:\_projects\education\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.csproj.AssemblyReference.cache
+D:\_projects\education\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+D:\_projects\education\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.AssemblyInfoInputs.cache
+D:\_projects\education\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.AssemblyInfo.cs
+D:\_projects\education\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.csproj.CoreCompileInputs.cache
+D:\_projects\education\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.dll
+D:\_projects\education\HomeWork2\HomeWork2\obj\Debug\net5.0\ref\HomeWork2.dll
+D:\_projects\education\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.pdb
+D:\_projects\education\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.genruntimeconfig.cache
